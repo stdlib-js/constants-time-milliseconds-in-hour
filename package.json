@@ -1,0 +1,32 @@
+{
+  "name": "@stdlib/constants-time-milliseconds-in-hour",
+  "version": "0.0.0",
+  "description": "Number of milliseconds in an hour.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-time-milliseconds-in-hour.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtime",
+    "constant",
+    "const",
+    "milliseconds",
+    "ms",
+    "hour",
+    "hr",
+    "time",
+    "duration"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
