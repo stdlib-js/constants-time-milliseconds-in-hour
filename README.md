@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import MILLISECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-hour@v0.0.8-esm/index.mjs';
+import MILLISECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-hour@esm/index.mjs';
 ```
 
 #### MILLISECONDS_IN_HOUR
@@ -71,7 +71,7 @@ var bool = ( MILLISECONDS_IN_HOUR === 3600000 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@esm/index.mjs';
-import MILLISECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-hour@v0.0.8-esm/index.mjs';
+import MILLISECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-hour@esm/index.mjs';
 
 var ms;
 var h;
