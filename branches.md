@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-hour"
-click B href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/main"
-click C href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/production"
-click D href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/esm"
-click E href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/deno"
-click F href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-hour"
+%% click B href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/main"
+%% click C href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/production"
+%% click D href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/esm"
+%% click E href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/deno"
+%% click F href "https://github.com/stdlib-js/constants-time-milliseconds-in-hour/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-hour
